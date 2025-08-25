@@ -1,0 +1,10 @@
+{
+  "Admin": {
+    "expire": "2025-09-01",
+    "hwid": "DESKTOP-AKRMCBF"
+  },
+  "XYZ789": {
+    "expire": "2025-12-31",
+    "hwid": "ANY"
+  }
+}
