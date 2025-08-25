@@ -1,10 +1,14 @@
-{
-  "Admin": {
+[
+  {
+    "username": "namvip",
+    "apikey": "ABC123",
     "expire": "2025-09-01",
-    "hwid": "DESKTOP-AKRMCBF"
+    "hwid": "DESKTOP-XYZ123"
   },
-  "XYZ789": {
+  {
+    "username": "huypro",
+    "apikey": "XYZ789",
     "expire": "2025-12-31",
-    "hwid": "ANY"
+    "hwid": "DESKTOP-ABC456"
   }
-}
+]
