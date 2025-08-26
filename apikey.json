@@ -6,10 +6,10 @@
     "expires": "2024-12-31T23:59:59"
   },
   {
-    "key": "Admin",
+    "key": "FREE",
     "hwid": "",
     "type": "multi",
-    "expires": "2028-12-31T23:59:59"
+    "expires": "2025-9-11T23:59:59"
   },
   {
     "key": "ACTIVATEDKEY789",
