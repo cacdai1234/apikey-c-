@@ -6,7 +6,7 @@
     "expires": "2024-12-31T23:59:59"
   },
   {
-    "key": "MULTIKEY456",
+    "key": "Admin",
     "hwid": "",
     "type": "multi",
     "expires": "2028-12-31T23:59:59"
