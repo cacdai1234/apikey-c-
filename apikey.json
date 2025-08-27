@@ -1,9 +1,9 @@
 [
   {
-    "key": "SINGLEKEY123",
-    "hwid": "",
+    "key": "Admin",
+    "hwid": "166b4c9c1060a787586b119ae4e99fa0dd6d6e5760729ad0180fcb57fd4c195d",
     "type": "single",
-    "expires": "2024-12-31T23:59:59"
+    "expires": "2029-12-31T23:59:59"
   },
   {
     "key": "FREE",
