@@ -1,12 +1,18 @@
 [
   {
-    "key": "SINGLEKEY123",
+    "key": "Admin",
     "hwid": "166b4c9c1060a787586b119ae4e99fa0dd6d6e5760729ad0180fcb57fd4c195d",
     "type": "single",
-    "expires": "2025 12 31 23:59:59"
+    "expires": "2026 12 31 23:59:59"
   },
   {
-    "key": "MULTIKEY456",
+    "key": "FREE3DAYS",
+    "hwid": "",
+    "type": "multi",
+    "expires": "2025 9 8 23:59:59"
+  },
+  {
+    "key": "PHONG",
     "hwid": "",
     "type": "multi",
     "expires": "2025 12 31 23:59:59"
