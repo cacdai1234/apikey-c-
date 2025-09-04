@@ -3,12 +3,12 @@
     "key": "SINGLEKEY123",
     "hwid": "edf4219448bde7816184f6714947703bfc9ec1a420c7e60d148f95d40fe80e56",
     "type": "single",
-    "expires": "2025 12 31 24:59:59"
+    "expires": "2025 12 31 23:59:59"
   },
   {
     "key": "MULTIKEY456",
-    "hwid": "edf4219448bde7816184f6714947703bfc9ec1a420c7e60d148f95d40fe80e56",
-    "type": "single", 
-    "expires": "2025 12 31 24:59:59"
+    "hwid": "",
+    "type": "multi",
+    "expires": "2025 12 31 23:59:59"
   }
 ]
